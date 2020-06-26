@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109917040752",
+    "firebase_url": "https://wappclone-52657.firebaseio.com",
+    "project_id": "wappclone-52657",
+    "storage_bucket": "wappclone-52657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109917040752:android:4f6ae3603c43abf985c4b5",
+        "android_client_info": {
+          "package_name": "com.example.wappc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109917040752-4mdkebt6s7gb7t0stj7enj8qr1t0v25n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1iAxdtDyW-9helUFM7yRtTGze5DNKgN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109917040752-4mdkebt6s7gb7t0stj7enj8qr1t0v25n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
