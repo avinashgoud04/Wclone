@@ -25,6 +25,7 @@
             android:layout_height="25sp"
             android:layout_marginTop="25sp"
             android:autoSizeTextType="uniform"
+            android:textColor="@color/colorPrimaryDark"
             android:text="Login"
             android:textAlignment="center" />
 
