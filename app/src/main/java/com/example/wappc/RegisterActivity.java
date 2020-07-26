@@ -87,6 +87,8 @@ public class RegisterActivity extends AppCompatActivity {
                     map.put("id",userid);
                     map.put("username",username);
                     map.put("imageURL","default");
+                    map.put("status","offline");
+
 
                     reference.setValue(map).addOnCompleteListener(new OnCompleteListener<Void>() {
                         @Override
